@@ -1,4 +1,4 @@
 module.exports = {
-  publicPath: '/comic',
+  publicPath: './',
   outputDir: 'docs'
 }
