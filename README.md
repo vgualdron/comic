@@ -29,4 +29,5 @@ se van sumando los puntos y se muestra la tabla de puntuación.
 * Hay problemas con la API "https://xkcd.com/json.html", no tiene los CORS necesarios para acceder los endpoints.
 * En ambiente DEV el proxy es a nivel de front para poder realizar la comunicación de la aplicación con la API.
 * En ambiente PROD se usa un proxy en php, ubicado en https://novumcolombia.com/proxy.php  para poder realizar la comunicación de la aplicación con la API.
-* La aplicación se puede visualizar en ambiente productivo en https://novumcolombia.com.
+* La aplicación se puede visualizar en ambiente productivo en https://vgualdron.github.io/comic
+* El proyecto tiene CI/CD, al hacer push a la rama master, se realiza la integración y el despliegue automatizado.
