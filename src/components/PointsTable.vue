@@ -2,7 +2,7 @@
   <div>
     <header class="card-header">
       <p class="card-header-title title is-4">
-        xxx General rating
+        General rating
       </p>
     </header>
     <v-table
