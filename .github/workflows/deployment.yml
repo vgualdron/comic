@@ -19,3 +19,5 @@ jobs:
         run: |
           npm install
           npm run build
+      - name: Deploy
+        uses: JamesIves/gitbub-pages-deploy-actions
